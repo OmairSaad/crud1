@@ -1,0 +1,18 @@
+.l{
+    box-shadow: inset 0px 0px 3px red;
+}
+.form_box{
+    margin-top: 5px;
+    padding: 20px 20px;
+    box-shadow: 0px 2px 10px rgba(0,0,0,0.5);
+    border-radius: 4px;
+}
+th{
+    color: white;
+    background-color: rgb(2, 132, 0);
+    text-align: center;
+}
+td{
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
